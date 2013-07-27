@@ -18,9 +18,12 @@ body{
 		<h1>Drexel Interstellar</h1>
 		<h2>Mission Statement</h2>
 		<q>To achievee maned interstellar flight by 2100 </q>
+		
+		
 		<q>The unrelenting quest to reach our neighbouring solar systems by 2100!</q>
 		
 		
+<<<<<<< HEAD
 		<p> -Advanced propulsion systems such as nuclear fusion, antimatter, and warp field mechanics are currently being
 		     researched in the world and have a promising future. </p>
 		<p>-Many other topics including advances in spacesuit technology,  0g agriculture, human biology, and societies in
@@ -31,6 +34,59 @@ body{
 
 
 		<p>To find out more about the club check out <a href="News.html">News</a> </p>
+=======
+		<p> Born outside Wilkse Barre I have always loved nature and animals. This being said
+		    I love pictures of cute baby animals, especially <em>Puppies</em> </p>
+		<img src="puppies.jpeg" alt="puppies" >
+		<p>To find out more about allie check out her <a href="Interests.html">interests</a> </p>
+		<p>To read some <em>AMAZING</em> music reviews click <a href="Music.html">HERE </a></p>
+
+<!-- start sw-rss-feed code --> 
+<script type="text/javascript"> 
+<!-- 
+rssfeed_url = new Array(); 
+rssfeed_url[0]="http://www.jpl.nasa.gov/multimedia/rss/news.xml"; rssfeed_url[1]="http://www.icarusinterstellar.org/feed/";  
+rssfeed_frame_width="180"; 
+rssfeed_frame_height="250"; 
+rssfeed_scroll="on"; 
+rssfeed_scroll_step="6"; 
+rssfeed_scroll_bar="off"; 
+rssfeed_target="_blank"; 
+rssfeed_font_size="12"; 
+rssfeed_font_face=""; 
+rssfeed_border="on"; 
+rssfeed_css_url="http://feed.surfing-waves.com/css/style3a.css"; 
+rssfeed_title="on"; 
+rssfeed_title_name="Space Feed"; 
+rssfeed_title_bgcolor="#3366ff"; 
+rssfeed_title_color="#fff"; 
+rssfeed_title_bgimage="http://"; 
+rssfeed_footer="off"; 
+rssfeed_footer_name="rss feed"; 
+rssfeed_footer_bgcolor="#fff"; 
+rssfeed_footer_color="#333"; 
+rssfeed_footer_bgimage="http://"; 
+rssfeed_item_title_length="50"; 
+rssfeed_item_title_color="#666"; 
+rssfeed_item_bgcolor="#fff"; 
+rssfeed_item_bgimage="http://"; 
+rssfeed_item_border_bottom="on"; 
+rssfeed_item_source_icon="off"; 
+rssfeed_item_date="off"; 
+rssfeed_item_description="on"; 
+rssfeed_item_description_length="120"; 
+rssfeed_item_description_color="#666"; 
+rssfeed_item_description_link_color="#333"; 
+rssfeed_item_description_tag="off"; 
+rssfeed_no_items="0"; 
+rssfeed_cache = "f4f45d9af8c7efcde4f09e89980bc466"; 
+//--> 
+</script> 
+<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script> 
+<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
+<div style="text-align:right; width:180px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
+<!-- end sw-rss-feed code -->
+>>>>>>> c6f0610620fab70d6ff1ea62378e3bd47cd27eb6
 	</body>
 </html>
 
