@@ -1,0 +1,27 @@
+<html>
+	<head>
+	<title>Drexel Interstellar</title>
+	<style type="text/css">
+body{
+		background-color: #708090;
+		margin-left: 20%;
+		margin-right: 20%;
+		border: 1px dotted gray;
+		padding: 10px 10px 10px 10px;
+		font-family: helvetica;
+		}
+</style>
+	
+	</head>
+	<body>
+		<h1>Drexel Interstellar</h1>
+		<h2>Mission Statement</h2>
+		<q>The unrelenting quest to reach our neighbouring solar systems by 2100!</q>
+		
+		
+		<p> Emails from Icarus</p>
+
+
+		<p>To find out more about the club check out <a href="News.html">News</a> </p>
+	</body>
+</html>
